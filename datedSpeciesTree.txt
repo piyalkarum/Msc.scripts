@@ -1,0 +1,1 @@
+((Brapa_v1.3.priTranscripts:0.0505795,Boleracea_capitata_v1.0.priTranscripts:0.0505795)0.990184:0.08218764,(Athaliana_Araport11.priTranscripts:0.0476014,(Ahalleri_v2.1.0.priTranscripts:0.0242109,Alyrata_v2.1.priTranscripts:0.0242109)0.765925:0.0233905)0.990184:0.08516574);
