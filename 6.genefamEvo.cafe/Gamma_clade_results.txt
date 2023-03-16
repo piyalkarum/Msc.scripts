@@ -1,0 +1,6 @@
+#Taxon_ID	Increase	Decrease
+Alyrata_v2.1.priTranscripts<5>	3171	1892
+Athaliana_Araport11.priTranscripts<3>	4024	753
+Brapa_v1.3.priTranscripts<1>	6415	4950
+Ahalleri_v2.1.0.priTranscripts<4>	0	21330
+Boleracea_capitata_v1.0.priTranscripts<2>	3202	481
